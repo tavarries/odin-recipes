@@ -1,0 +1,30 @@
+body {
+    background-color:cornflowerblue;
+}
+
+p {
+    text-align: left;
+    line-height: 24px;
+}
+
+#list {
+    background-color:dodgerblue
+}
+
+.Roasted {
+    background-color:dodgerblue;
+}
+
+#cheesy {
+    background-color:green;
+}
+
+.time,
+.order,
+.shredded{
+    color:greenyellow;
+}
+
+#sweet{
+    background-color:lightskyblue;
+}
